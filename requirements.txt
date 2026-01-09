@@ -1,0 +1,11 @@
+openai
+langgraph
+langchain
+pydantic
+pandas
+numpy
+requests
+pdfplumber
+python-dotenv
+tqdm
+pinecone-client
